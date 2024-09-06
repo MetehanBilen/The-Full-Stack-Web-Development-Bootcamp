@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/BodyMassIndex/BodyMassIndex.iml" filepath="$PROJECT_DIR$/Chapter-01/BodyMassIndex/BodyMassIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Chapter-01/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/ChineeseZodiac/ChineeseZodiac.iml" filepath="$PROJECT_DIR$/Chapter-01/ChineeseZodiac/ChineeseZodiac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/CircleArea/CircleArea.iml" filepath="$PROJECT_DIR$/Chapter-01/CircleArea/CircleArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/EventRecommendation/EventRecommendation.iml" filepath="$PROJECT_DIR$/Chapter-01/EventRecommendation/EventRecommendation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/FlightTicketPriceCalculator/FlightTicketPriceCalculator.iml" filepath="$PROJECT_DIR$/Chapter-01/FlightTicketPriceCalculator/FlightTicketPriceCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/GradePointAverageCalculator/GradePointAverageCalculator.iml" filepath="$PROJECT_DIR$/Chapter-01/GradePointAverageCalculator/GradePointAverageCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/HoroscopeFinder/HoroscopeFinder.iml" filepath="$PROJECT_DIR$/Chapter-01/HoroscopeFinder/HoroscopeFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/LeapYearFinder/LeapYearFinder.iml" filepath="$PROJECT_DIR$/Chapter-01/LeapYearFinder/LeapYearFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/Login/Login.iml" filepath="$PROJECT_DIR$/Chapter-01/Login/Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/PassingGrade/PassingGrade.iml" filepath="$PROJECT_DIR$/Chapter-01/PassingGrade/PassingGrade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/PriceIncluding VATCalculator/PriceIncluding VATCalculator.iml" filepath="$PROJECT_DIR$/Chapter-01/PriceIncluding VATCalculator/PriceIncluding VATCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/SortingNumbers/SortingNumbers.iml" filepath="$PROJECT_DIR$/Chapter-01/SortingNumbers/SortingNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/TaxiMeter/TaxiMeter.iml" filepath="$PROJECT_DIR$/Chapter-01/TaxiMeter/TaxiMeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/The-Full-Stack-Web-Development-Bootcamp.iml" filepath="$PROJECT_DIR$/.idea/The-Full-Stack-Web-Development-Bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-01/TriangleArea/TriangleArea.iml" filepath="$PROJECT_DIR$/Chapter-01/TriangleArea/TriangleArea.iml" />
+    </modules>
+  </component>
+</project>
